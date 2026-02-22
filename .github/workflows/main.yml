@@ -6,7 +6,7 @@ on:
 
 jobs:
   extract-cookies:
-    # مهم جدًا: يجب تشغيل هذا على self-hosted runner
+    # مهم جدًا: يجب تشغيل هذا على self-hosted runne
     runs-on: self-hosted
 
     steps:
